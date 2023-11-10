@@ -15,7 +15,7 @@ def readme() -> str:
 
 setuptools.setup(
     name="st_wordcloud",
-    version="0.0.6",
+    version="0.0.7",
     author="Andell",
     author_email="drogadvc@gmail.com",
     description="st_wordcloud React component for Streamlit",
